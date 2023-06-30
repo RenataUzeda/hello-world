@@ -11,6 +11,8 @@ Para começar, vamos examinar como adicionar JavaScript à sua página para cria
 
 ### (Hello world! é o padrão para exemplos de programação introdutória.)
 
+Fonte: [developer.mozilla.org](https://developer.mozilla.org/pt-BR/)
+
 [Um pouco da história do "Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 [Conheça mais JavaScript!](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics#um_exemplo_ol%C3%A1_mundo!)
