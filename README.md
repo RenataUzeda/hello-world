@@ -9,7 +9,7 @@ Você pode ter que começar pequeno e progredir gradualmente.
 
 Para começar, vamos examinar como adicionar JavaScript à sua página para criar um exemplo Hello world!. 
 
-### (Hello world! é o padrão para exemplos de programação introdutória.)
+### (Hello world! É o padrão para exemplos de programação introdutória.)
 
 Fonte: [developer.mozilla.org](https://developer.mozilla.org/pt-BR/)
 
